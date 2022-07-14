@@ -1,1 +1,1 @@
-# Colecting-wallet-java
+# Collecting-wallet-java
